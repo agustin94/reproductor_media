@@ -1,0 +1,7 @@
+1) habilitar a Windows Media Player por defecto para que corra todos los videos al reproducirlo
+2) En el archivo (path.txt), en la primera linea, escribis la ruta completa del video.
+(DE TODOS MODOS ESTA UN EJEMPLO DE COMO TENES QUE ESCRIBIRLO)
+3) Podes extraer el "script.exe" y guardarlo donde me habias mencionado para que ejecute al iniciar la pc.
+
+PORFAVOR SI CORRES EL EXE DE MANERA MANUAL YA INICIADO ANTES VERIFICAR QUE EL SIMBOLO
+DEL REPRODUCTOR ESTE DESACTIVADO.
